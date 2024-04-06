@@ -1,6 +1,6 @@
 # GitHub Clone
 
-Cloning Github using Javascript object data 
+Cloning Github using GITHUB API 
 
 
 
